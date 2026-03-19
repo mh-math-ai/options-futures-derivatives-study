@@ -1,0 +1,94 @@
+# General Terms:
+
+Bid: The (highest) price for which someone is willing to buy something.
+
+Offer: The (lowest) price at which someone is willing to sell something.
+
+Size: the number of contracts that one is willing to trade at a given price.
+
+Make a market: to provide a bid and ask price and a quantity/size.
+
+Spread: The difference between the bid and the ask price.
+
+Hedge: a trade or investment to reduce the risks of another transaction. 
+A second bet(s) that offsets risks associated with a first bet(s).
+
+Index: an instrument that tracks the performance of a market. 
+Generally, an index will track the performance of many stocks. 
+Examples include the Nasdaq, S&P 500, and Down Jones Industrial Average.
+
+ETF: marketable security that tracks a stock index, commodity, or other basket of assets. 
+Behaves and trades very much like a stock.
+
+Commodity: a raw material (oil, gold) or agricultural product (soybeans, corn) that can be bought and sold, 
+normally at one prevailing price
+
+# Market Participants:
+
+Trader: can define any active market participant. 
+Traders can work for trading firms like Akuna, as well as hedge funds, banks, etc.
+
+Market Maker: a specific trader willing to buy or sell an asset at a specific price at all times. 
+Market makers constantly buy and sell related securities, 
+with their primary responsibilities being to collect edge and manage risk.
+
+Local: General term for market makers. Term comes from pit trading days, as locals stood in the pit every day.
+
+Broker: a person or company that acts as an intermediary between buyers and sellers
+
+Paper: the interested parties trading against other market makers. 
+Term comes from pit trading days as customer orders came via paper.
+
+Hedge Fund/Institution/Bank: Financial institutions that, for a variety of reasons, are active market participants. 
+These groups are generally the largest paper customers.
+
+Retail Client: Smaller “paper” customers. For example, an individual trading at home.
+
+# Options Specific Terms:
+
+Fill: Another term for the completion of a trade. 
+If a market maker trades on their bid or offer, the market maker may claim he/she “got filled”.
+
+Tick size (tick increment): the increment between one price level and the next smallest price level. 
+Different products have different tick sizes. For example, the tick increment in USD is 0.01, or 1 cent tick sizes.
+
+Queue Priority: for markets that are determined “price-time”, if multiple orders are entered for the same price, 
+the participant who entered his/her order or quote first, will trade first. This person is said to have queue priority.
+
+Settlement time: the specific time of days options expire, and futures “settle” for the day. 
+These values are used to calculate daily P&L and mark to market.
+
+All-or-None: an order type that must be executed in its entirety, or not executed at all.
+
+Immediate or Cancel (IOC) : a type of order that requires all or part of the order to be executed immediately. 
+Unfilled parts of order are cancelled– sometimes referred to as Fill and Kill (FAK) orders.
+
+Good for Day (GFD) order: a type of order that will remain active until executed (in part or full) 
+or until the end of the trading day. It is then cancelled.
+
+Good-till-cancelled (GTC): a type of order that will remain active until completed 
+or cancelled by the entering party.
+
+Fill or Kill (FOK): an order type that must be executed immediately in its entirety, otherwise the order is cancelled; 
+often with floor trading – market makers have a few seconds to decide to make a trade and can also do a partial order. 
+Sometimes brokers will use this interchangeably with Fill and Kill and will fill partial FOK orders.
+
+OCO (one cancels the other): when one order is executed, the other order is automatically cancelled. 
+This is usually invoked to protect someone from gaining too much exposure in one direction.
+
+Contract Size: The multiplier attached to an option or future. 
+Options on stock generally have a multiplier of 100 shares. Options on futures have a multiplier of 1 future. 
+The multiplier on options on a future and the multiplier on the future can vary.
+
+Vol bid, catching a bid, ripping/exploding: Variety of terms for vol going up.
+
+Vol offered, vol smashed/smoked: Variety of terms for vol going down.
+
+Teenie: lowest priced options. Generally traded for movement risk purposes.
+
+Theoretical Value (Theo): based on all inputs, the current value a market maker believes an option is worth.
+
+Sheets (or fair value): same as above, but generally when referring to where something traded.
+
+Liquidity: how easy/hard it is to trade close to fair value. 
+Generally determined by the number on contracts on the bid/offer, along with the width of the market.
